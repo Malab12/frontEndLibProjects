@@ -1,3 +1,5 @@
+// Api taken from https://github.com/lukePeavey/quotable#usage
+
 const text = document.getElementById('text');
 const author = document.getElementById('author');
 const twitter = document.getElementById('tweet-quote');
